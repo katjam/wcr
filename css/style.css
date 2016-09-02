@@ -127,12 +127,12 @@ textarea {
 	word-wrap: break-word;
 }
 body {
-	background: #74b823;
+	background: #75B72A;
 }
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
 	padding-bottom: 18px;
-	color: #2a2e6d;
+	color: #282F6B;
 	font-weight: normal;
 	font-family: 'Lucinda Sans Unicode', sans-serif;
 }
@@ -231,7 +231,7 @@ blockquote {
 	font-weight: normal;
 	padding: 20px;
 	border: 1px solid #EAEAEA;
-	border-left: 3px solid #2a2e6d;
+	border-left: 3px solid #282F6B;
 	margin-bottom: 20px;
 }
 blockquote em, blockquote i, blockquote cite {
@@ -248,7 +248,7 @@ blockquote cite {
 /* =LINKS
 ----------------------------------------------- */
 a {
-	color: #2a2e6d;
+	color: #282F6B;
 	text-decoration: none;
 }
 a:focus, a:active, a:hover {
@@ -337,7 +337,7 @@ body {
 	padding: 10px 20px 0 0;
 }
 #site-title a {
-	color: #2a2e6d;
+	color: #282F6B;
 	font-size: 36px;
 }
 h1#site-title {
@@ -351,11 +351,11 @@ h3#site-title {
   padding-bottom: 5px;
 }
 #site-title a:hover {
-	color: #2a2e6d;
+	color: #282F6B;
 }
 #site-description {
 	line-height: 24px;
-	font-size: 16px;
+	font-size: 22px;
 	padding-bottom: 0;
 	color: #666666;
 }
@@ -416,7 +416,7 @@ h3#site-title {
 	color: #666666;
 }
 .footer-socket-wrapper .copyright a:hover {
-	color: #2a2e6d;
+	color: #282F6B;
 }
 
 /* =SCROLL UP
@@ -431,7 +431,7 @@ a#scroll-up {
 	font: normal 26px/1 'Genericons';
 	vertical-align: top;
 	color: #FFFFFF;
-	background-color: #2a2e6d;
+	background-color: #282F6B;
 	opacity: 0.5;
 	filter:alpha(opacity=50); /* For IE8 and earlier */
 	border-radius: 3px;
@@ -481,7 +481,7 @@ a#scroll-up:hover {
 	color: #444444;
 }
 .post .entry-title a:hover, .page .entry-title a:hover {
-	color: #2a2e6d;
+	color: #282F6B;
 }
 .post .entry-content {
 	margin-bottom: 10px;
