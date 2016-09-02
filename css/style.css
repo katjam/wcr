@@ -10,12 +10,12 @@
 
 /* =wcr
 -------------------------------------------------------------- */
-a.mailto {
-  padding-left: 20px;
+.numbers {
+  font-size: 18px;
 }
 
-i.fa-mobile, i.fa-phone {
-  width: 15px;
+.fa-mobile {
+  padding-left: 10px;
 }
 
 aside img {
@@ -575,6 +575,20 @@ a#scroll-up:hover {
     #header-right-section span.mailto {
         display: block;
     }
+    
+    .numbers span {
+      display: block;
+      line-height: 30px;
+    }
+
+    .numbers .fa {
+      padding-left: 0;
+    }
+  
+    h1#site-title {
+      line-height: 36px;
+    }
+
 }
 
 @media screen and (max-width: 767px) {
