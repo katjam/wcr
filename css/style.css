@@ -403,6 +403,7 @@ h3#site-title {
 	padding: 10px 0px;
 	background-color: #F8F8F8;
 	border-top: 1px solid #EAEAEA;
+    text-align: center;
 }
 .footer-socket-area {
 	width: 100%;
