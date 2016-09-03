@@ -157,6 +157,7 @@ p {
 	margin-bottom: 15px;
 	font-family: 'Lucinda Sans Unicode', sans-serif;
 	font-size: 16px;
+    text-align: justify;
 }
 strong {
 	font-weight: bold;
@@ -597,6 +598,17 @@ a#scroll-up:hover {
 		width: 100%;
 		margin: 0;
 	}
+
+    aside {
+        text-align: center;
+    }
+
+    aside img {
+        width: 80%;
+        margin: auto;
+        float: none;
+    }
+
 }
 
 @media screen and (max-width: 600px) {
